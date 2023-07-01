@@ -3,7 +3,7 @@
 from urllib.parse import unquote
 import json, re
 
-data = json.loads(open('http.json').read())
+data = json.loads(open('exported-http.json').read())
 flag = [''] * 100
 for i in range(len(data)):
     response_time = float(data[i]["_source"]["layers"]["frame"]["frame.time_delta_displayed"])
