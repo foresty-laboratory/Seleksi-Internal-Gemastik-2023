@@ -1,0 +1,6 @@
+Recently my GF mad because i forgot our anniversary. As an apology she wanted me to come to the location in the video, She said to help me find the location, try to find the location using other picture in her social media. Can you help me find her location?
+
+Attachment : https://drive.google.com/file/d/1A5erGKjV1-eWqrw-QNZbUHaSuLkCBSUl/view?usp=sharing
+
+Put the flag into proper format : ForestyCTF{Street Name_Postal Code_City_Country}
+e.g ForestyCTF{Varnaun St_IU33 8SI_Paris_France}
