@@ -7,6 +7,10 @@ Kumpulan soal-soal yang digunakan pada Seleksi Internal Telkom University untuk 
 ### Forensic
 
 - Attack Traffic: `blind sqli log`
+- Signature: `edit signature of file`
+
+### OSINT
+- Find Her: `Near Big Ben`
 
 ### Reverse Engineering
 
