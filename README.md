@@ -19,3 +19,8 @@ Kumpulan soal-soal yang digunakan pada Seleksi Internal Telkom University untuk 
 - Login Portal: `buffer overflow`
 - No Shell: `orw`
 - Bubble Sort: `array out-of-bound` `full security enabled`
+
+### Web Exploitation
+
+- Flag Checker - Web Version: `wasm` `rev` `xor`
+- Under Development: `flask session` `bruteforce secretkey`
